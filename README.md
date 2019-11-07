@@ -1,1 +1,1 @@
-# MiningDrillTextAdventure
+# Mining Drill Text Adventure
